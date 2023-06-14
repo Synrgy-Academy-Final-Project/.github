@@ -1,4 +1,4 @@
-# :dress: Fashionism :jeans: *“Style with Ease, Confidence with Fashionism”* Bangkit 2023 Product-based Capstone Project ~ *C23-PS242*
+# :dress: Fashionism :jeans: ~ *“Style with Ease, Confidence with Fashionism”* Bangkit 2023 Product-based Capstone Project ~ *C23-PS242*
 
 ![banner](banner.png)
 
