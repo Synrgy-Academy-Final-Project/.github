@@ -4,7 +4,7 @@
 Fashionism is an application to help users easily find local fashion products according to their style preferences. One of the main problems that this app aims to solve is the difficulty of local fashion products competing with foreign fashion products in Indonesia. This is due to the lack of awareness and ease for customers to find suitable local fashion products, thus leading to low engagement in the market for MSMEs. The target market of Fashionism is users who need help in choosing fashion to increase their confidence in their daily appearance. As for MSMEs, Fashionism can be a means to increase sales output and reach customers. The app can be accessed anywhere with an internet connection and a compatible device. We want to address this issue by engaging MSMEs in introducing their fashion products and helping users easily find clothes that suit their style preferences. It is essential to encourage the use of local fashion products to boost the economy and support the growth of the MSME industry in Indonesia. Through this app, users can feel more confident in their daily looks while supporting local fashion products and contributing to economic growth.
 </div>
 
-# Team Members
+## Team Members
 
 | No  | Name                            | Student ID  | University                    | Learning Path      |
 | --- | ------------------------------- | ----------- | ----------------------------- | ------------------ |
@@ -15,56 +15,10 @@ Fashionism is an application to help users easily find local fashion products ac
 | 5   | Kevin Malik Fajar               | A366DKX4013 | Universitas Trunojoyo         | Mobile Development |
 | 6   | Nicola Yanni Alivant            | A366DSX2296 | Universitas Trunojoyo         | Mobile Development |
 
-# Tech Stack
+## Tech Stack
 
-<table>
-    <thead>
-        <tr>
-            <th style="text-align:left">Learning Path</th>
-            <th style="text-align:center"></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="text-align:left">Machine Learrning</td>
-            <td style="text-align:center;"><img
-                    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" />
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:left">Cloud Computing</td>
-            <td style="text-align:center"><img
-                    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /></td>
-        </tr>
-        <tr>
-            <td style="text-align:left">Mobile Development</td>
-            <td style="text-align:center"><img
-                    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> <img
-                    src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
-                    style="margin-right: 10px; margin-bottom: 10px; border-radius: 5px;" /> </td>
-        </tr>
-    </tbody>
-</table>
+| Learning Path |     |
+| :-----------: | :-: |
+| Machine Learning | ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| Cloud Computing| ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| Mobile Development| ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
