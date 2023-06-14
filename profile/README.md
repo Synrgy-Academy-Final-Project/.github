@@ -8,12 +8,12 @@ Fashionism is an application to help users easily find local fashion products ac
 
 | No  | Name                            | Student ID  | University                    | Learning Path      |
 | --- | ------------------------------- | ----------- | ----------------------------- | ------------------ |
-| 1.   | Rezki Ciarchi Frendi Napitupulu | M017DSX0437 | Institut Teknologi Bandung    | Machine Learning   |
-| 2.   | Farichaturrifqi Aryanitasari    | M136DSY2930 | Universitas Amikom Yogyakarta | Machine Learning   |
-| 3.   | Faza Iman Imron                 | C136DSX1978 | Universitas Amikom Yogyakarta | Cloud Computing    |
-| 4.   | Moch Surya Diva Nurkhoir        | C058DSX2967 | Politeknik Negeri Banyuwangi  | Cloud Computing    |
-| 5.   | Kevin Malik Fajar               | A366DKX4013 | Universitas Trunojoyo         | Mobile Development |
-| 6.   | Nicola Yanni Alivant            | A366DSX2296 | Universitas Trunojoyo         | Mobile Development |
+| 1.   | Rezki Ciarchi Frendi Napitupulu | M017DSX0437 | Institut Teknologi Bandung    | Machine Learning :robot:  |
+| 2.   | Farichaturrifqi Aryanitasari    | M136DSY2930 | Universitas Amikom Yogyakarta | Machine Learning  :robot: |
+| 3.   | Faza Iman Imron                 | C136DSX1978 | Universitas Amikom Yogyakarta | Cloud Computing :cloud:   |
+| 4.   | Moch Surya Diva Nurkhoir        | C058DSX2967 | Politeknik Negeri Banyuwangi  | Cloud Computing  :cloud:  |
+| 5.   | Kevin Malik Fajar               | A366DKX4013 | Universitas Trunojoyo         | Mobile Development :iphone:|
+| 6.   | Nicola Yanni Alivant            | A366DSX2296 | Universitas Trunojoyo         | Mobile Development :iphone: |
 
 ## Tech Stack :technologist:
 
