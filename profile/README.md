@@ -8,17 +8,17 @@ Fashionism is an application to help users easily find local fashion products ac
 
 | No  | Name                            | Student ID  | University                    | Learning Path      |
 | --- | ------------------------------- | ----------- | ----------------------------- | ------------------ |
-| 1   | Rezki Ciarchi Frendi Napitupulu | M017DSX0437 | Institut Teknologi Bandung    | Machine Learning   |
-| 2   | Farichaturrifqi Aryanitasari    | M136DSY2930 | Universitas Amikom Yogyakarta | Machine Learning   |
-| 3   | Faza Iman Imron                 | C136DSX1978 | Universitas Amikom Yogyakarta | Cloud Computing    |
-| 4   | Moch Surya Diva Nurkhoir        | C058DSX2967 | Politeknik Negeri Banyuwangi  | Cloud Computing    |
-| 5   | Kevin Malik Fajar               | A366DKX4013 | Universitas Trunojoyo         | Mobile Development |
-| 6   | Nicola Yanni Alivant            | A366DSX2296 | Universitas Trunojoyo         | Mobile Development |
+| 1.   | Rezki Ciarchi Frendi Napitupulu | M017DSX0437 | Institut Teknologi Bandung    | Machine Learning   |
+| 2.   | Farichaturrifqi Aryanitasari    | M136DSY2930 | Universitas Amikom Yogyakarta | Machine Learning   |
+| 3.   | Faza Iman Imron                 | C136DSX1978 | Universitas Amikom Yogyakarta | Cloud Computing    |
+| 4.   | Moch Surya Diva Nurkhoir        | C058DSX2967 | Politeknik Negeri Banyuwangi  | Cloud Computing    |
+| 5.   | Kevin Malik Fajar               | A366DKX4013 | Universitas Trunojoyo         | Mobile Development |
+| 6.   | Nicola Yanni Alivant            | A366DSX2296 | Universitas Trunojoyo         | Mobile Development |
 
 ## Tech Stack
 
 | Learning Path |     |
-| :-----------: | :-: |
+| ----------- | :-: |
 | Machine Learning | ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | Cloud Computing| ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
 | Mobile Development| ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
