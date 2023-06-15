@@ -11,7 +11,7 @@ Fashionism is an application to help users easily find local fashion products ac
 | No  | Name                            | Student ID  | University                    | Learning Path      |
 | --- | ------------------------------- | ----------- | ----------------------------- | ------------------ |
 | 1.   | [Rezki Ciarchi Frendi Napitupulu](https://github.com/rezkinapitupulu02) | M017DSX0437 | Institut Teknologi Bandung    | Machine Learning :robot:  |
-| 2.   | [Farichaturrifqi Aryanitasari](https://github.com/archaa)    | M136DSY2930 | Universitas Amikom Yogyakarta | Machine Learning  :robot: |
+| 2.   | [Farichaturrifqi Aryanitasari](https://github.com/achraa)    | M136DSY2930 | Universitas Amikom Yogyakarta | Machine Learning  :robot: |
 | 3.   | [Faza Iman Imron](https://github.com/fazaimron27)                 | C136DSX1978 | Universitas Amikom Yogyakarta | Cloud Computing :cloud:   |
 | 4.   | [Moch Surya Diva Nurkhoir](https://github.com/msuryaa)        | C058DSX2967 | Politeknik Negeri Banyuwangi  | Cloud Computing  :cloud:  |
 | 5.   | [Kevin Malik Fajar](https://github.com/kevinmf1)               | A366DKX4013 | Universitas Trunojoyo         | Mobile Development :iphone:|
@@ -25,6 +25,10 @@ Fashionism is an application to help users easily find local fashion products ac
 | Cloud Computing| ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
 | Mobile Development| ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
 
-## Deployment Flow :rocket:
+## ML Architecture :brain:
 
-![deployment flow](deployment-flow.png)
+<img src="ml-architecture.jpeg" alt="ml architecture" width="700"/>
+
+## Cloud Architecture :cloud_with_lightning_and_rain:
+
+<img src="cloud-architecture.png" alt="cloud aarchitecture" width="709"/>
