@@ -31,7 +31,7 @@ Fashionism is an application to help users easily find local fashion products ac
 
 ## Cloud Architecture :cloud_with_lightning_and_rain:
 
-<img src="cloud-architecture.png" alt="cloud rchitecture" width="895"/>
+<img src="cloud-architecture.png" alt="cloud rchitecture" width="900"/>
 
 ## Mobile Architecture :iphone:
 
