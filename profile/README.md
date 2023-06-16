@@ -27,12 +27,12 @@ Fashionism is an application to help users easily find local fashion products ac
 
 ## ML Architecture :brain:
 
-<img src="ml-architecture.jpeg" alt="ml architecture" width="700"/>
+<img src="ml-architecture.png" alt="ml architecture" width="885"/>
 
 ## Cloud Architecture :cloud_with_lightning_and_rain:
 
-<img src="cloud-architecture.png" alt="cloud architecture" width="700"/>
+<img src="cloud-architecture.png" alt="cloud rchitecture" width="890"/>
 
 ## Mobile Architecture :iphone:
 
-![mobile-architecture](https://github.com/Fashionism-Bangkit-Capstone/.github/assets/61926766/74a559c5-392f-4603-a86a-e7d6a15b0272)
+<img src="md-architecture.png" alt="md architecture" width="885"/>
