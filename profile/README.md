@@ -1,21 +1,22 @@
-# :dress: Fashionism :jeans: *“Style with Ease, Confidence with Fashionism”* Bangkit 2023 Product-based Capstone Project ~ *C23-PS242*
+# Fly.id *“Let’s Your Dreams Take Flight!”* Synrgy Academy Batch 6 Final Project ~ *Kelompok 4*
 
-![banner](banner.png)
-
-<div align="justify">
-Fashionism is an application to help users easily find local fashion products according to their style preferences. One of the main problems that this app aims to solve is the difficulty of local fashion products competing with foreign fashion products in Indonesia. This is due to the lack of awareness and ease for customers to find suitable local fashion products, thus leading to low engagement in the market for MSMEs. The target market of Fashionism is users who need help in choosing fashion to increase their confidence in their daily appearance. As for MSMEs, Fashionism can be a means to increase sales output and reach customers. The app can be accessed anywhere with an internet connection and a compatible device. We want to address this issue by engaging MSMEs in introducing their fashion products and helping users easily find clothes that suit their style preferences. It is essential to encourage the use of local fashion products to boost the economy and support the growth of the MSME industry in Indonesia. Through this app, users can feel more confident in their daily looks while supporting local fashion products and contributing to economic growth.
-</div>
 
 ## Team Members :busts_in_silhouette:
 
-| No  | Name                            | Student ID  | University                    | Learning Path      |
-| --- | ------------------------------- | ----------- | ----------------------------- | ------------------ |
-| 1.   | [Rezki Ciarchi Frendi Napitupulu](https://github.com/rezkinapitupulu02) | M017DSX0437 | Institut Teknologi Bandung    | Machine Learning :robot:  |
-| 2.   | [Farichaturrifqi Aryanitasari](https://github.com/achraa)    | M136DSY2930 | Universitas Amikom Yogyakarta | Machine Learning  :robot: |
-| 3.   | [Faza Iman Imron](https://github.com/fazaimron27)                 | C136DSX1978 | Universitas Amikom Yogyakarta | Cloud Computing :cloud:   |
-| 4.   | [Moch Surya Diva Nurkhoir](https://github.com/msuryaa)        | C058DSX2967 | Politeknik Negeri Banyuwangi  | Cloud Computing  :cloud:  |
-| 5.   | [Kevin Malik Fajar](https://github.com/kevinmf1)               | A366DKX4013 | Universitas Trunojoyo         | Mobile Development :iphone:|
-| 6.   | [Nicola Yanni Alivant](https://github.com/alco-845)            | A366DSX2296 | Universitas Trunojoyo         | Mobile Development :iphone: |
+|            **Nama**               | **Course**          |
+|-----------------------------------|---------------------|
+| Hafshah Haudli Windjatika         | UIX + PM            |
+| Kevin Malik Fajar                 | Android Engineering |
+| Maxsimus Ernest                   | Back End Java       |
+| Fajar Tri Utomo                   | Back End Java       |
+| Faridz Nur Firdausy Setyo Nugraha | Full Stack Web      |
+| Mohammed Arras Adazim             | Full Stack Web      |
+| Akbar Yudhi                       | Full Stack Web      |
+| Handoyo Dwi Prasetyo              | Full Stack Web      |
+| Andyka Adi Pratama                | Full Stack Web      |
+| Misbahudin                        | Full Stack Web      |
+| R. Firdaus Dharmawan Akbar        | Full Stack Web      |
+| Sis Adrian                        | QA                  |
 
 ## Tech Stack :technologist:
 
